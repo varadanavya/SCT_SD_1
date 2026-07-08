@@ -103,7 +103,7 @@ You can deploy this project using:
 
 **Your Name**
 
-SkillCraft Technology Internship
+Varada Navyasri
 
 ---
 
