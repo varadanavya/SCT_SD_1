@@ -6,7 +6,7 @@ A modern, responsive, and user-friendly Temperature Converter built using **HTML
 
 ## 🚀 Live Demo
 
-[view Temperature Converter website](sct-sd-1-sable.vercel.app)
+[view Temperature Converter website](https://sct-sd-1-sable.vercel.app/)
 
 ## 📌 Project Overview
 
@@ -109,8 +109,7 @@ You can deploy this project using:
 
  Varada Navyasri 
 
-🔗 LinkedIn: [Varada Navyasri]([YOUR_LINKEDIN_PROFILE_LINK](https://www.linkedin.com/in/varada-navyasri-70a67b36a?utm_source=share_via&utm_content=profile&utm_medium=member_android))  
-💻 GitHub: [Varada Navyasri](YOUR_GITHUB_PROFILE_LINK)
+🔗 LinkedIn: [Varada Navyasri([(https://www.linkedin.com/in/varada-navyasri-70a67b36a?utm_source=share_via&utm_content=profile&utm_medium=member_android)] 
 
 ---
 
